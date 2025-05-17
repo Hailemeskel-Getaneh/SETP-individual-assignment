@@ -1,0 +1,19 @@
+<project name="ant-demo" default="run" basedir=".">
+    <property name="src" location="src/main/java"/>
+    <property name="build" location="build"/>
+
+    <target name="init">
+        <mkdir dir="${build}"/>
+    </target>
+
+    <target name="compile" depends="init">
+        <javac srcdir="${src}" destdir="${build}" includeantruntime="false">
+            <compilerarg value="-source=17"/>
+            <compilerarg value="-target=17"/>
+        </javac>
+    </target>
+
+    <target name="run" depends="compile">
+        <java classname="Hello" classpath="${build}"/>
+    </target>
+</project>
