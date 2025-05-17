@@ -1,7 +1,6 @@
 
 ---
 
-
 # Agile Software Development Frameworks: Scrum, Kanban, and XP
 
 This document compares and contrasts three Agile software development frameworks—Scrum, Kanban, and Extreme Programming (XP)—focusing on their roles, processes, adaptability, delivery cycles, and team collaboration. These frameworks align with Agile principles, such as iterative development and customer collaboration, but differ in their implementation, making them suited for different project needs.
