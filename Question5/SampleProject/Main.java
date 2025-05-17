@@ -5,5 +5,3 @@ public class Main {
         System.out.println("Hello, " + (args.length > 0 ? args[0] : "World") + "!");
     }
 }
-
-   
