@@ -10,6 +10,6 @@ This repository contains assignments for the Software Engineering Tools and Prac
 - `Question6/`: DevOps tools (Jenkins, Docker, Kubernetes).
 
 ## Setup
-1. Clone: `git clone <repo-url>`
+1. Clone: `git clone https://github.com/Hailemeskel-Getaneh/SETP-individual-assignment.git`
 2. Install JDK 17+ for Java assignments.
 3. Install Docker Desktop for Question 6.
