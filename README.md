@@ -1,4 +1,21 @@
+
+
+---
+![alt text](image.png)
+
+
+# Debre Berhan University 
+## College of Computing
+### Department of Software Engineering
 # Software Engineering Tools and Practice Assignments
+
+ - Individual Assignment
+
+---
+### Name: Hailemeskel Getaneh
+#### ID Number: DBU1501246
+------
+
 This repository contains assignments for the Software Engineering Tools and Practice course at Debre Berhan University.
 
 ## Structure
